@@ -21,3 +21,12 @@ let x = 10;
 let y = 20;
 console.log(suma(x, y));
 //#endregion
+//#region resta
+function resta(a, b) {
+    let j = a - b;
+    return j;
+}
+let a = 60;
+let b = 20;
+console.log(resta(a, b));
+//#endregion
