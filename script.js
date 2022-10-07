@@ -12,3 +12,12 @@ console.log(numerotel);
 console.log(escuela);
 console.log(color);
 //#endregion
+//#region suma
+function suma(x, y) {
+    let z = x + y;
+    return z;
+}
+let x = 10;
+let y = 20;
+console.log(suma(x, y));
+//#endregion
