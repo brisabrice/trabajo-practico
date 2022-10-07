@@ -48,3 +48,9 @@ let r = 7;
 let h = 20;
 console.log(multiplicacion(r, h));
 //#endregion
+//#region array
+let listaA = [2, 5, 6, 8];
+for (i = 0; i < listaA.length; i++) {
+    console.log(listaA[i]);
+}
+//#endregion
