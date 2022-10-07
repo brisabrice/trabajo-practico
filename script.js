@@ -39,3 +39,12 @@ let n = 10;
 let t = 5;
 console.log(division(n, t));
 //#endregion
+//#region multiplicacion
+function multiplicacion(r, h) {
+    let m = r * h;
+    return m;
+}
+let r = 7;
+let h = 20;
+console.log(multiplicacion(r, h));
+//#endregion
