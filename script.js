@@ -30,3 +30,12 @@ let a = 60;
 let b = 20;
 console.log(resta(a, b));
 //#endregion
+//#region division
+function division(n, t) {
+    let o = n / t;
+    return o;
+}
+let n = 10;
+let t = 5;
+console.log(division(n, t));
+//#endregion
